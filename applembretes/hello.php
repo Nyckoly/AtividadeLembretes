@@ -5,10 +5,8 @@ require('./../config.php');
 
 $array[]=[
     "error"=>"",
-    "result"=> [
-
-    ]
-]
+    "result"=> []
+];
 
 require('./../return.php');
 
